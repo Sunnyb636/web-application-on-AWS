@@ -1,0 +1,6 @@
+customhost = "cap-proj-database-1.cs3lpdyuw6nm.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin123"
+customdb = "capproj_data"
+custombucket = "capstone-project01"
+customregion = "us-east-1"
